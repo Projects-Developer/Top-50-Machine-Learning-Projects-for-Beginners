@@ -119,12 +119,10 @@ Top 50 Machine Learning Projects for Beginners Includes Source Code, PPT, Synops
 
 ### Need Code, Documents & Explanation video ? 
 
-## How to Reach me :
+### 📞 Contact for Project Files / Help (Available 🟢 LIVE 24×7 – LIVE Support):
 
-### Mail : vatshayan007@gmail.com 
+### 🌐 Website: https://www.finalproject.in/
 
-### WhatsApp: +91 9310631437 (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
+### 📲 Contact (WhatsApp, Email, Call): https://www.contactvatshayan.com
 
-### Website : https://www.finalproject.in/
-
-### Contact me for any kind of help on projects.
+### 💻 Computer Science Projects: https://www.computer-science-project.in/
